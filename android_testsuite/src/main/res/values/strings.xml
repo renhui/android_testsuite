@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyTools</string>
+
+    <!-- GuideActivity -->
+    <string name="selSocket">Socket请求</string>
+    <string name="selHttp">Http连接</string>
+    <!-- GuideActivity -->
+
+    <!-- tips -->
+    <string name="empty">您输入的信息不全</string>
+    <string name="notNumber">您输入的不是数字</string>
+    <string name="positive">您需要输入的是正数</string>
+    <string name="url_error">输入有误</string>
+    <string name="bigNumber">线程数太大，请不要超过</string>    
+    <!-- tips -->
+    
+    <string name="label_thread_num">线程数</string>
+    <string name="label_url">地址</string>
+
+
+    <!-- TCP UDP -->
+
+    <string name="ip">IP:</string>
+    <string name="udp">UDP</string>
+    <string name="tcp">TCP</string>
+    <string name="packSize">数据包大小</string>
+    <string name="bt_start">开始测试</string>
+    <string name="label_TcpThreadNum">TCP线程数</string>
+    <string name="label_UdpThreadNum">UDP线程数</string>
+
+    <!-- TCP UDP -->
+    
+    <!-- AppSearchActivity -->
+    <string name="list_app_name">应用程序名称</string>
+    <string name="list_package_id">应用包名</string>
+    <string name="list_image">程序图标</string>
+    <string name="noApp">没有该应用</string>
+    <string name="inputApp">请输入应用名称</string>
+    <string name="search_app">查找应用Package ID</string>
+    <string name="bt_search">搜索</string>
+    <string name="label_appName">软件名称</string>
+    <!-- AppSearchActivity -->
+
+    <!-- RSA -->
+    <string name="bt_encrypt">加密</string>
+    <string name="bt_decrypt">解密</string>
+    <string name="rsaTitle">RSA加密与解密</string>
+    <string name="rsaDescription">加密内容显示在界面，并存储到文件中</string>
+    <string name="lable_rsa">加密的内容</string>
+    <string name="rsa_encrypt_tip">没有给mContent赋值，请在程序中进行赋值后再使用加密方法</string>
+    <string name="rsa_decrypt_tip">没有给mContent赋值，请在程序中进行赋值后再使用解密方法</string>
+    <!-- RSA -->
+
+    <!-- uid -->
+    <string name="uid_search">Uid检查</string>
+    <string name="uid_searchSame">同Uid检查</string>
+    <string name="uid_list">Uid遍历</string>
+    <string name="uid">uid</string>
+    <string name="appName">appName</string>
+    <string name="pid">pid</string>
+    <string name="explain_sameUid">说明：列表显示的是相同UID的应用的列表</string>
+    <string name="explain_allUid">说明：列表显示的是所有UID的应用的列表</string>
+    <!-- uid -->
+
+    <!-- media -->
+    <string name="media">多媒体播放</string>
+
+    <!-- camera -->
+    <string name="camera">Camera Intent</string>
+
+    <!-- custom_loading -->
+    <string name="custom_loading">custom_loading</string>
+
+    <!-- camera-->
+    <string name="camera_new">camera</string>
+
+    <string name="seek_bar">seek_bar</string>
+
+
+    <!-- DatePicker-->
+    <string name="sans_serif" translatable="false">sans-serif</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
